@@ -96,7 +96,6 @@ export default function Home() {
                 <span className="text-white text-xl font-bold">Book Recommendations</span>
                 <div>
                   <a href="https://github.com/DReyesTong/book-recommender" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Code</a>
-                  <a href="#demoLink" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Demo</a>
                 </div>
               </div>
             </div>
@@ -114,7 +113,6 @@ export default function Home() {
                 <span className="text-white text-xl font-bold">Personal Book Library</span>
                 <div>
                   <a href="https://github.com/DReyesTong/book-library" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Code</a>
-                  <a href="#demoLink" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Demo</a>
                 </div>
               </div>
             </div>
@@ -132,7 +130,7 @@ export default function Home() {
                 <span className="text-white text-xl font-bold">Calculator</span>
                 <div>
                   <a href="https://github.com/DReyesTong/Calculator" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Code</a>
-                  <a href="#demoLink" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Demo</a>
+                  <a href="https://dreyestong.github.io/Calculator/" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Demo</a>
                 </div>
               </div>
             </div>
@@ -149,8 +147,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col items-center justify-center gap-4 opacity-0 group-hover:opacity-100 transition duration-300 ease-in-out">
                 <span className="text-white text-xl font-bold">Personal Website</span>
                 <div>
-                  <a href="#sourceCodeLink" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Code</a>
-                  <a href="#demoLink" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Demo</a>
+                  <a href="https://github.com/DReyesTong/personalwebsite" className="bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 border-none rounded-md mx-2 hover:opacity-90 transition duration-300 ease-in-out">Code</a>
                 </div>
               </div>
             </div>
